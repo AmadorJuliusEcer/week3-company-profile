@@ -408,27 +408,27 @@ The following screenshots document the completed Company Profile Website and imp
 
 ### Home Page
 
-<img src="./Screenshots/home.png" alt="Home Page">
+![Home Page](Screenshots/home.png)
 
 ### About Page
 
-<img src="./Screenshots/about.png" alt="About Page">
+![About Page](Screenshots/about.png)
 
 ### Services Page
 
-<img src="./Screenshots/services.png" alt="Services Page">
+![Services Page](Screenshots/services.png)
 
 ### Contact Page
 
-<img src="./Screenshots/contact.png" alt="Contact Page">
+![Contact Page](Screenshots/contact.png)
 
 ### Navigation Bar
 
-<img src="./Screenshots/navbar.png" alt="Navigation Bar">
+![Navigation Bar](Screenshots/navbar.png)
 
 ### Footer
 
-<img src="./Screenshots/footer.png" alt="Footer">
+![Footer](Screenshots/footer.png)
 
 ### Route Definitions
 
